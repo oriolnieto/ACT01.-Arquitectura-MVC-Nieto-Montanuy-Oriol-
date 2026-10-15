@@ -4,7 +4,7 @@
 	define("HOST_DB", "localhost");
 	define("USER_DB", "root");
 	define("PASS_DB", "");
-	define("NAME_DB", "ACT1 Arquitectura MVC");
+	define("NAME_DB", "ACT1");
  
     //crear la conexió a la base de dades
 	$conexion = new mysqli(
